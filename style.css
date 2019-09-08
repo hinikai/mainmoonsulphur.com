@@ -1,0 +1,13 @@
+html, body {
+    text-align: center;
+}
+
+#map {
+    height: 500px;
+}
+
+.image  {
+    width: 100%;
+    max-width: 500px;
+}
+
